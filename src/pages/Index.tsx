@@ -11,19 +11,18 @@ const Index = () => {
       </Helmet>
       
       <div className="max-w-4xl mx-auto p-4">
-        <h1>Best Phone Under 2000 - Mobile Deals - 8860976606</h1>
+        <h1>Call girls in Bangalore 8860976606 ↇGorgeousↇ Bangalore Call Girl 24/7 service Avialable
+</h1>
         
-        <h2>Phone Categories</h2>
+        <h2>Best escort in Banglore </h2>
         <ul>
-          <li><a href="tel:8860976606">Best Phone Under 2000</a></li>
-          <li><a href="tel:8860976606">Mobile Deals and Offers</a></li>
-          <li><a href="tel:8860976606">Budget Smartphones</a></li>
-          <li><a href="tel:8860976606">Cheap Mobile Phones</a></li>
-          <li><a href="tel:8860976606">Affordable Android Phones</a></li>
-          <li><a href="tel:8860976606">Phone Under 2000 Rupees</a></li>
+          <li><a href="tel:8860976606">Bangalore call girls 8860976606 ⫷☆69 Position☆⫸ call girls in Bangalore Book for Full Night</a></li>
+          <li><a href="tel:8860976606">Call girls in Bangalore 8860976606 ↇGorgeousↇ Bangalore Call Girl 24/7 service Avialable
+</a></li>
+        
         </ul>
 
-{/*         <h2>Popular Keywords</h2>
+      <!-- <h2>Popular Keywords</h2>
         <ul>
           <li><a href="tel:8860976606">Best Phone Under 2000</a></li>
           <li><a href="tel:8860976606">Mobile Under 2000</a></li>
@@ -54,7 +53,7 @@ const Index = () => {
           <li><a href="tel:8860976606">Camera Phone Under 2000</a></li>
           <li><a href="tel:8860976606">Long Battery Phone Under 2000</a></li>
           <li><a href="tel:8860976606">Android Phone Under 2000</a></li>
-        </ul> */}
+        </ul>  -->
 
         <h2>Contact</h2>
         <p>For expert advice on mobile phones: <a href="tel:8860976606">8860976606</a></p>
