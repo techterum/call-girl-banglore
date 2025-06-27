@@ -34,71 +34,7 @@ const Index = () => {
           </ul>
         </div>
 
-        {/* Commented section preserved exactly as provided */}
-        <!-- <h2>Popular Keywords</h2>
-        <ul>
-          <li><a href="tel:8860976606">Best Phone Under 2000</a></li>
-          <li><a href="tel:8860976606">Mobile Under 2000</a></li>
-          <li><a href="tel:8860976606">Phone Deals</a></li>
-          <li><a href="tel:8860976606">Budget Mobile</a></li>
-          <li><a href="tel:8860976606">Cheap Smartphones</a></li>
-          <li><a href="tel:8860976606">Mobile Offers</a></li>
-          <li><a href="tel:8860976606">Phone Under 2000</a></li>
-          <li><a href="tel:8860976606">Budget Phone Deals</a></li>
-          <li><a href="tel:8860976606">Affordable Mobile</a></li>
-          <li><a href="tel:8860976606">Low Price Phones</a></li>
-        </ul>
 
-        <h2>Brand Specific</h2>
-        <ul>
-          <li><a href="tel:8860976606">Samsung Phone Under 2000</a></li>
-          <li><a href="tel:8860976606">Xiaomi Phone Under 2000</a></li>
-          <li><a href="tel:8860976606">Redmi Phone Under 2000</a></li>
-          <li><a href="tel:8860976606">Realme Phone Under 2000</a></li>
-          <li><a href="tel:8860976606">Vivo Phone Under 2000</a></li>
-          <li><a href="tel:8860976606">Oppo Phone Under 2000</a></li>
-        </ul>
-
-        <h2>Features</h2>
-        <ul>
-          <li><a href="tel:8860976606">4G Phone Under 2000</a></li>
-          <li><a href="tel:8860976606">Dual Sim Phone Under 2000</a></li>
-          <li><a href="tel:8860976606">Camera Phone Under 2000</a></li>
-          <li><a href="tel:8860976606">Long Battery Phone Under 2000</a></li>
-          <li><a href="tel:8860976606">Android Phone Under 2000</a></li>
-        </ul> -->
-
-{/*         <div className="bg-white p-6 rounded-lg shadow-lg mb-8">
-          <h2 className="text-2xl font-semibold text-purple-800 mb-4 border-b-2 border-pink-300 pb-2">
-            Contact
-          </h2>
-          <p className="text-lg">
-            For booking gorgeous call girls: <a href="tel:8860976606" className="text-pink-600 font-bold hover:text-pink-800">8860976606</a>
-          </p>
-        </div>
-        
-        <div className="bg-white p-6 rounded-lg shadow-lg">
-          <h2 className="text-2xl font-semibold text-purple-800 mb-4 border-b-2 border-pink-300 pb-2">
-            Location Based
-          </h2>
-          <ul className="space-y-3">
-            <li className="bg-purple-50 p-3 rounded hover:bg-purple-100 transition">
-              <a href="tel:8860976606" className="text-purple-700 font-medium">
-                Best Phone Under 2000 in India
-              </a>
-            </li>
-            <li className="bg-purple-50 p-3 rounded hover:bg-purple-100 transition">
-              <a href="tel:8860976606" className="text-purple-700 font-medium">
-                Mobile Deals Near Me
-              </a>
-            </li>
-            <li className="bg-purple-50 p-3 rounded hover:bg-purple-100 transition">
-              <a href="tel:8860976606" className="text-purple-700 font-medium">
-                Phone Shop Contact Number
-              </a>
-            </li>
-          </ul>
-        </div> */}
       </div>
     </>
   );
