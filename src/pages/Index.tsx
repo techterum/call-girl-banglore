@@ -68,7 +68,7 @@ const Index = () => {
           <li><a href="tel:8860976606">Android Phone Under 2000</a></li>
         </ul> -->
 
-        <div className="bg-white p-6 rounded-lg shadow-lg mb-8">
+{/*         <div className="bg-white p-6 rounded-lg shadow-lg mb-8">
           <h2 className="text-2xl font-semibold text-purple-800 mb-4 border-b-2 border-pink-300 pb-2">
             Contact
           </h2>
@@ -98,7 +98,7 @@ const Index = () => {
               </a>
             </li>
           </ul>
-        </div>
+        </div> */}
       </div>
     </>
   );
