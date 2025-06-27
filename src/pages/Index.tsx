@@ -23,7 +23,7 @@ const Index = () => {
           <li><a href="tel:8860976606">Phone Under 2000 Rupees</a></li>
         </ul>
 
-        <h2>Popular Keywords</h2>
+{/*         <h2>Popular Keywords</h2>
         <ul>
           <li><a href="tel:8860976606">Best Phone Under 2000</a></li>
           <li><a href="tel:8860976606">Mobile Under 2000</a></li>
@@ -54,7 +54,7 @@ const Index = () => {
           <li><a href="tel:8860976606">Camera Phone Under 2000</a></li>
           <li><a href="tel:8860976606">Long Battery Phone Under 2000</a></li>
           <li><a href="tel:8860976606">Android Phone Under 2000</a></li>
-        </ul>
+        </ul> */}
 
         <h2>Contact</h2>
         <p>For expert advice on mobile phones: <a href="tel:8860976606">8860976606</a></p>
