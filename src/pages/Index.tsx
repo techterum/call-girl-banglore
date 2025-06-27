@@ -1,68 +1,69 @@
+
 import { Helmet } from "react-helmet-async";
 
 const Index = () => {
   return (
     <>
       <Helmet>
-        <title>Bangalore Call Girls 8860976606 | 69 Position | Full Night Booking</title>
-        <meta name="description" content="Gorgeous Bangalore call girls, 69 position, full night booking. Call 8860976606 for best call girls in Bangalore." />
-        <meta name="keywords" content="Bangalore call girls, call girls in Bangalore, 69 position, full night booking, gorgeous call girls, 24/7 service, Bangalore escort" />
+        <title>Best Phone Under 2000 | Mobile Deals | Budget Smartphones | 8860976606</title>
+        <meta name="description" content="Best phone under 2000, mobile deals, smartphone offers, budget phones, cheap phones. Call 8860976606 for expert advice." />
+        <meta name="keywords" content="best phone under 2000, mobile deals, smartphone offers, budget phones, cheap phones, mobile under 2000, phone deals, budget mobile, affordable smartphones" />
       </Helmet>
       
       <div className="max-w-4xl mx-auto p-4">
-        <h1>Bangalore Call Girls - 69 Position - 8860976606</h1>
+        <h1>Best Phone Under 2000 - Mobile Deals - 8860976606</h1>
         
-        <h2>Service Categories</h2>
+        <h2>Phone Categories</h2>
         <ul>
-          <li><a href="tel:8860976606">Full Night Booking</a></li>
-          <li><a href="tel:8860976606">69 Position Special</a></li>
-          <li><a href="tel:8860976606">Gorgeous Call Girls</a></li>
-          <li><a href="tel:8860976606">24/7 Service Available</a></li>
-          <li><a href="tel:8860976606">High Profile Models</a></li>
-          <li><a href="tel:8860976606">Outcall & Incall Service</a></li>
+          <li><a href="tel:8860976606">Best Phone Under 2000</a></li>
+          <li><a href="tel:8860976606">Mobile Deals and Offers</a></li>
+          <li><a href="tel:8860976606">Budget Smartphones</a></li>
+          <li><a href="tel:8860976606">Cheap Mobile Phones</a></li>
+          <li><a href="tel:8860976606">Affordable Android Phones</a></li>
+          <li><a href="tel:8860976606">Phone Under 2000 Rupees</a></li>
         </ul>
 
         <h2>Popular Keywords</h2>
         <ul>
-          <li><a href="tel:8860976606">Call Girls in Bangalore</a></li>
-          <li><a href="tel:8860976606">Bangalore Escorts</a></li>
-          <li><a href="tel:8860976606">High Profile Call Girls</a></li>
-          <li><a href="tel:8860976606">69 Position Service</a></li>
-          <li><a href="tel:8860976606">Full Night Booking</a></li>
-          <li><a href="tel:8860976606">Model Call Girls</a></li>
-          <li><a href="tel:8860976606">Russian Call Girls</a></li>
-          <li><a href="tel:8860976606">College Girls Service</a></li>
-          <li><a href="tel:8860976606">Housewife Service</a></li>
-          <li><a href="tel:8860976606">VIP Call Girls</a></li>
+          <li><a href="tel:8860976606">Best Phone Under 2000</a></li>
+          <li><a href="tel:8860976606">Mobile Under 2000</a></li>
+          <li><a href="tel:8860976606">Phone Deals</a></li>
+          <li><a href="tel:8860976606">Budget Mobile</a></li>
+          <li><a href="tel:8860976606">Cheap Smartphones</a></li>
+          <li><a href="tel:8860976606">Mobile Offers</a></li>
+          <li><a href="tel:8860976606">Phone Under 2000</a></li>
+          <li><a href="tel:8860976606">Budget Phone Deals</a></li>
+          <li><a href="tel:8860976606">Affordable Mobile</a></li>
+          <li><a href="tel:8860976606">Low Price Phones</a></li>
         </ul>
 
-        <h2>Service Areas</h2>
+        <h2>Brand Specific</h2>
         <ul>
-          <li><a href="tel:8860976606">MG Road Call Girls</a></li>
-          <li><a href="tel:8860976606">Koramangala Escorts</a></li>
-          <li><a href="tel:8860976606">Whitefield Call Girls</a></li>
-          <li><a href="tel:8860976606">Indiranagar Service</a></li>
-          <li><a href="tel:8860976606">Marathahalli Escorts</a></li>
-          <li><a href="tel:8860976606">Electronic City</a></li>
+          <li><a href="tel:8860976606">Samsung Phone Under 2000</a></li>
+          <li><a href="tel:8860976606">Xiaomi Phone Under 2000</a></li>
+          <li><a href="tel:8860976606">Redmi Phone Under 2000</a></li>
+          <li><a href="tel:8860976606">Realme Phone Under 2000</a></li>
+          <li><a href="tel:8860976606">Vivo Phone Under 2000</a></li>
+          <li><a href="tel:8860976606">Oppo Phone Under 2000</a></li>
         </ul>
 
-        <h2>Special Features</h2>
+        <h2>Features</h2>
         <ul>
-          <li><a href="tel:8860976606">100% Satisfaction</a></li>
-          <li><a href="tel:8860976606">Discreet Service</a></li>
-          <li><a href="tel:8860976606">Verified Profiles</a></li>
-          <li><a href="tel:8860976606">No Advance Payment</a></li>
-          <li><a href="tel:8860976606">Real Photos</a></li>
+          <li><a href="tel:8860976606">4G Phone Under 2000</a></li>
+          <li><a href="tel:8860976606">Dual Sim Phone Under 2000</a></li>
+          <li><a href="tel:8860976606">Camera Phone Under 2000</a></li>
+          <li><a href="tel:8860976606">Long Battery Phone Under 2000</a></li>
+          <li><a href="tel:8860976606">Android Phone Under 2000</a></li>
         </ul>
 
         <h2>Contact</h2>
-        <p>For booking gorgeous call girls: <a href="tel:8860976606">8860976606</a></p>
+        <p>For expert advice on mobile phones: <a href="tel:8860976606">8860976606</a></p>
         
-        <h2>Additional Services</h2>
+        <h2>Location Based</h2>
         <ul>
-          <li><a href="tel:8860976606">Russian Call Girls</a></li>
-          <li><a href="tel:8860976606">College Girls Service</a></li>
-          <li><a href="tel:8860976606">Housewife Escorts</a></li>
+          <li><a href="tel:8860976606">Best Phone Under 2000 in India</a></li>
+          <li><a href="tel:8860976606">Mobile Deals Near Me</a></li>
+          <li><a href="tel:8860976606">Phone Shop Contact Number</a></li>
         </ul>
       </div>
     </>
